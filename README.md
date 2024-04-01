@@ -13,7 +13,7 @@ To run this Express.js server, ensure you have Node.js installed on your machine
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Keshav-1803/Introduction-to-Backend.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -21,7 +21,7 @@ To run this Express.js server, ensure you have Node.js installed on your machine
    Move into the project directory in your terminal:
 
    ```bash
-   cd express-server
+   cd FIRSTAPI
    ```
 
 3. **Install Dependencies:**
